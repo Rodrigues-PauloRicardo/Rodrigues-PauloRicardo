@@ -1,5 +1,5 @@
-### OLá 👋
-Meu Nome é Paulo Ricardo, atualmente cursando Análise e Desenvolvimento de Sistemas (Término Abril 2023)
+### OLá que bom que você chegou até aqui👋
+Meu Nome é Paulo Ricardo, atualmente cursando Análise e Desenvolvimento de Sistemas (Término Abril 2023) e este é um resumo do caminho que estou traçando.
 
 - IFSUL  -Curso programador Web 
 - IFSUL  - Javascript
