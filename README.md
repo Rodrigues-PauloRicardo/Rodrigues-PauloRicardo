@@ -17,9 +17,10 @@ Meu Nome é Paulo Ricardo, atualmente cursando Análise e Desenvolvimento de Sis
 - **minhas skills:**
  
   <img align="center" alt="Lari-Js" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lari-React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lari-HTML" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lari-React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
   <img align="center" alt="Lari-Figma" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
 Então vamos conversar??
