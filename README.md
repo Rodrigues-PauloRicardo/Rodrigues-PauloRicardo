@@ -1,5 +1,5 @@
 ### OLá 👋
-Meu Nome é Paulo Ricardo, atualmente cursando Análise de Desnvolvimento de Sistemas (Término(Abril 2023)
+Meu Nome é Paulo Ricardo, atualmente cursando Análise e Desenvolvimento de Sistemas (Término Abril 2023)
 
 - 🔭 I’m
 - 🌱 I’m 
