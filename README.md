@@ -1,27 +1,11 @@
-### Hi there 👋
-
-<!--
-**Rodrigues-PauloRicardo/Rodrigues-PauloRicardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### OLá 👋
-Meu Nome é Paulo Ricardo, atualmente cursando Análise de Desnvolvimento de Sistemas(Término(Abril 2023)
+Meu Nome é Paulo Ricardo, atualmente cursando Análise de Desnvolvimento de Sistemas (Término(Abril 2023)
 
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🔭 I’m
+- 🌱 I’m 
+- 🤝 I’m
+
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Rodrigues-PauloRicardo)
 
