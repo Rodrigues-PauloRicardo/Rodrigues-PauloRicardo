@@ -1,13 +1,14 @@
 ### OLá 👋
 Meu Nome é Paulo Ricardo, atualmente cursando Análise e Desenvolvimento de Sistemas (Término Abril 2023)
 
-- IFSUL  -Curso programdor Web 
+- IFSUL  -Curso programador Web 
 - IFSUL  - Javascript
 - IFSUL  -Java
 - Curso em Vídeo Algorítimos, lógica Git e GitHub
 - Bootcamps - Arquiteturas de Sistema, Projétos Ágeis Scrum, JS es6, introdução ao React
 - Udemy - Programação Java, orientação a objetos.
-- Origamid - Javascript
+- Origamid - Javascript em Andamento
+- Origamid - React em andamento
 
 
 
