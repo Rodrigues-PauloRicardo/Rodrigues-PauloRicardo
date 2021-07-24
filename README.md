@@ -1,4 +1,4 @@
-### OLá que bom que você chegou até aqui👋
+### Olá que bom que você chegou até aqui👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulo-ricardo-rodrigues-a6ab8852/)
 
