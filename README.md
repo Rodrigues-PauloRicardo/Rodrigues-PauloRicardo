@@ -27,6 +27,6 @@ Meu Nome é Paulo Ricardo, atualmente cursando Análise e Desenvolvimento de Sis
  
 
   <img align="center" alt="Lari-Figma" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues-PauloRicardo&layout=compact)](https://github.com/reginokaa/github-readme-stats)
 
 
