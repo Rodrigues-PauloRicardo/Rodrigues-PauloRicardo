@@ -12,6 +12,7 @@ Meu Nome é Paulo Ricardo, atualmente cursando Análise e Desenvolvimento de Sis
 - Bootcamps - Arquiteturas de Sistema, Projétos Ágeis Scrum, JS es6, introdução ao React
 - Udemy - Programação Java, orientação a objetos.
 - Origamid - Javascript em Andamento
+- NodeJS - Udemy em andamento
 - Origamid - React em andamento
 
 
