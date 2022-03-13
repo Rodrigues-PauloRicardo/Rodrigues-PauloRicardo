@@ -2,9 +2,9 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paulo-ricardo-rodrigues-a6ab8852/)
 
-Meu Nome é Paulo Ricardo, atualmente cursando Análise e Desenvolvimento de Sistemas (Término Abril 2023) e este é um resumo do caminho que estou percorrendo.
+Meu Nome é Paulo Ricardo, e este é um resumo do caminho que estou percorrendo.
 
-
+- Atualmente cursando Análise e Desenvolvimento de Sistemas (Término Abril 2023)
 - IFSUL  -Curso programador Web 
 - IFSUL  - Javascript
 - IFSUL  -Java
