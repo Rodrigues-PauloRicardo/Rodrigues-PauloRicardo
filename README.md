@@ -4,7 +4,7 @@
 
 Meu Nome é Paulo Ricardo, e este é um resumo do caminho que estou percorrendo.
 
-- Atualmente cursando Análise e Desenvolvimento de Sistemas (Término Abril 2023)
+- Análise e Desenvolvimento de Sistemas (Concluído)
 - IFSUL  -Curso programador Web 
 - IFSUL  - Javascript
 - IFSUL  -Java
